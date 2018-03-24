@@ -55,5 +55,5 @@ command -v tickets
 tickets -gdt 上海 北京 2018-03-25
 ```
 ## Screenshots ##
-![screenshots](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "screenshot")
+![screenshots](https://github.com/ZhekaiJin/Train-Ticket-Booking-System/blob/master/screenshots/screenshot.png "screenshot")
 
